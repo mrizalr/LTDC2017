@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 9f0e3c63365599943862b47220db0bf2
+timeCreated: 1502857975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ltdc_0
+    21300002: ltdc_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ltdc_0
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1647
+        width: 2305
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -478.67334, y: 104.85193}
+        - {x: -618.67334, y: -128.14807}
+        - {x: -605.67334, y: 224.85193}
+        - {x: -677.67334, y: 282.85193}
+        - {x: -770.67334, y: 282.85193}
+        - {x: -786.67334, y: 278.85193}
+        - {x: -786.67334, y: -255.14807}
+        - {x: -771.67334, y: -282.14807}
+        - {x: 788.32666, y: -282.14807}
+        - {x: 788.32666, y: 259.85193}
+        - {x: 769.32666, y: 282.85193}
+        - {x: -575.67334, y: 282.85193}
+        - {x: -578.67334, y: 183.85193}
+      - - {x: 29.32666, y: 125.85193}
+        - {x: 165.32666, y: 84.85193}
+        - {x: 167.32666, y: -48.14807}
+        - {x: 29.32666, y: -127.14807}
+      tessellationDetail: 0
+    - name: ltdc_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 673
+        width: 2386
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.711975, y: 100.93466}
+        - {x: 38.711975, y: 98.93466}
+        - {x: 46.711975, y: 87.93466}
+        - {x: 74.711975, y: 54.93466}
+        - {x: 123.711975, y: 51.93466}
+        - {x: 35.711975, y: -173.06534}
+        - {x: 28.711975, y: -233.06534}
+        - {x: 39.711975, y: -280.06534}
+        - {x: 605.712, y: -280.06534}
+        - {x: 815.712, y: 96.93466}
+        - {x: 815.712, y: 269.93466}
+        - {x: 697.712, y: 280.93466}
+        - {x: 397.71198, y: 280.93466}
+        - {x: 339.71198, y: 200.93466}
+        - {x: 369.71198, y: 91.93466}
+        - {x: 322.71198, y: -125.06534}
+        - {x: 335.71198, y: 229.93466}
+        - {x: 330.71198, y: 280.93466}
+        - {x: -814.288, y: 280.93466}
+        - {x: -814.288, y: -280.06534}
+        - {x: -66.288025, y: -280.06534}
+        - {x: 1.7119751, y: -241.06534}
+        - {x: 34.711975, y: -172.06534}
+        - {x: 38.711975, y: -134.06534}
+      - - {x: -231.28802, y: -114.06534}
+        - {x: -231.28802, y: 100.93466}
+        - {x: -132.28802, y: 110.93466}
+        - {x: -171.28802, y: -133.06534}
+      - - {x: -594.288, y: -121.06534}
+        - {x: -592.288, y: -121.06534}
+        - {x: -533.288, y: -100.06534}
+        - {x: -441.28802, y: -47.06534}
+        - {x: -407.28802, y: -2.0653381}
+        - {x: -402.28802, y: 14.934662}
+        - {x: -403.28802, y: 16.934662}
+        - {x: -401.28802, y: 19.934662}
+        - {x: -402.28802, y: 21.934662}
+        - {x: -403.28802, y: -108.06534}
+        - {x: -402.28802, y: -115.06534}
+        - {x: -411.28802, y: -107.06534}
+        - {x: -427.28802, y: -103.06534}
+        - {x: -478.28802, y: -123.06534}
+        - {x: -479.28802, y: -124.06534}
+        - {x: -605.288, y: -125.06534}
+        - {x: -604.288, y: -126.06534}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

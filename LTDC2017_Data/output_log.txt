@@ -1,0 +1,289 @@
+Mono path[0] = 'C:/Users/Rizal/Documents/unity 3d/New/LTDC2017/LTDC2017_Data/Managed'
+Mono path[1] = 'C:/Users/Rizal/Documents/unity 3d/New/LTDC2017/LTDC2017_Data/Mono'
+Mono config path = 'C:/Users/Rizal/Documents/unity 3d/New/LTDC2017/LTDC2017_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Rizal/Documents/unity 3d/New/LTDC2017/LTDC2017_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55359
+Multi-casting "[IP] 192.168.1.29 [Port] 55359 [Flags] 3 [Guid] 293438870 [EditorId] 2359591933 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-749TG1J) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55359]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55359]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56870
+PlayerConnection already initialized - listening to [0.0.0.0:55359]
+Player data archive not found at `C:/Users/Rizal/Documents/unity 3d/New/LTDC2017/LTDC2017_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   25.21.14.1634
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.509 seconds
+Platform assembly: C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\LTDC2017_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.476693 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.333653 ms
+System memory in use before: 48.9 MB.
+System memory in use after: 17.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 3.983360 ms (FindLiveObjects: 0.042240 ms CreateObjectMapping: 0.018773 ms MarkObjects: 0.190293 ms  DeleteObjects: 3.730346 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.566826 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.325120 ms (FindLiveObjects: 0.029866 ms CreateObjectMapping: 0.021333 ms MarkObjects: 0.240640 ms  DeleteObjects: 0.032426 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.770560 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.359253 ms (FindLiveObjects: 0.043520 ms CreateObjectMapping: 0.034986 ms MarkObjects: 0.247040 ms  DeleteObjects: 0.032426 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.659626 ms
+System memory in use before: 16.8 MB.
+System memory in use after: 16.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.268373 ms (FindLiveObjects: 0.018346 ms CreateObjectMapping: 0.014933 ms MarkObjects: 0.191146 ms  DeleteObjects: 0.043520 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.562773 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.275626 ms (FindLiveObjects: 0.039253 ms CreateObjectMapping: 0.016640 ms MarkObjects: 0.214186 ms  DeleteObjects: 0.004693 ms)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.745813 ms
+System memory in use before: 33.4 MB.
+System memory in use after: 33.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.323413 ms (FindLiveObjects: 0.016213 ms CreateObjectMapping: 0.020480 ms MarkObjects: 0.233813 ms  DeleteObjects: 0.052480 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.668160 ms
+System memory in use before: 35.6 MB.
+System memory in use after: 19.1 MB.
+
+Unloading 144 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 2.223360 ms (FindLiveObjects: 0.030293 ms CreateObjectMapping: 0.019200 ms MarkObjects: 0.264960 ms  DeleteObjects: 1.907626 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.484693 ms
+System memory in use before: 19.1 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.640000 ms (FindLiveObjects: 0.028160 ms CreateObjectMapping: 0.015360 ms MarkObjects: 0.270933 ms  DeleteObjects: 0.324266 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.616960 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.264533 ms (FindLiveObjects: 0.021333 ms CreateObjectMapping: 0.014933 ms MarkObjects: 0.183893 ms  DeleteObjects: 0.043093 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.539733 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.283306 ms (FindLiveObjects: 0.046080 ms CreateObjectMapping: 0.015360 ms MarkObjects: 0.215893 ms  DeleteObjects: 0.004693 ms)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.658773 ms
+System memory in use before: 33.4 MB.
+System memory in use after: 33.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.263253 ms (FindLiveObjects: 0.015786 ms CreateObjectMapping: 0.017920 ms MarkObjects: 0.173653 ms  DeleteObjects: 0.054613 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.623786 ms
+System memory in use before: 35.6 MB.
+System memory in use after: 19.2 MB.
+
+Unloading 144 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 2.723413 ms (FindLiveObjects: 0.020480 ms CreateObjectMapping: 0.036266 ms MarkObjects: 0.193280 ms  DeleteObjects: 2.472533 ms)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.744106 ms
+System memory in use before: 35.6 MB.
+System memory in use after: 33.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.687786 ms (FindLiveObjects: 0.014933 ms CreateObjectMapping: 0.020480 ms MarkObjects: 0.169386 ms  DeleteObjects: 0.482560 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:53)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:156)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:206)
+KillPlayer:OnTriggerEnter2D(Collider2D) (at C:\Users\Rizal\Documents\unity 3d\New\LTDC2017\Assets\script\KillPlayer.cs:35)
+
+[C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp line 1743] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineObjectBindings.gen.cs Line: 53)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.906240 ms
+System memory in use before: 35.6 MB.
+System memory in use after: 19.2 MB.
+
+Unloading 144 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 2.249813 ms (FindLiveObjects: 0.047786 ms CreateObjectMapping: 0.029866 ms MarkObjects: 0.249600 ms  DeleteObjects: 1.919146 ms)
+
+The referenced script on this Behaviour (Game Object 'DeathParticle') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.584106 ms
+System memory in use before: 35.6 MB.
+System memory in use after: 33.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 3.539626 ms (FindLiveObjects: 0.014933 ms CreateObjectMapping: 0.016640 ms MarkObjects: 0.231253 ms  DeleteObjects: 3.276373 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.550400 ms
+System memory in use before: 33.4 MB.
+System memory in use after: 17.0 MB.
+
+Unloading 146 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 2.504960 ms (FindLiveObjects: 0.037973 ms CreateObjectMapping: 0.019200 ms MarkObjects: 0.236800 ms  DeleteObjects: 2.209280 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.676693 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.279040 ms (FindLiveObjects: 0.022613 ms CreateObjectMapping: 0.016640 ms MarkObjects: 0.194560 ms  DeleteObjects: 0.044373 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.607146 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.265813 ms (FindLiveObjects: 0.037120 ms CreateObjectMapping: 0.015360 ms MarkObjects: 0.207786 ms  DeleteObjects: 0.005120 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3a04 -> priority: 1 
+  Thread -> id: 210 -> priority: 1 
